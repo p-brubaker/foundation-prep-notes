@@ -1,14 +1,14 @@
 # foundation-prep-notes
 <br>
-[Day 1](https://github.com/p-brubaker/foundation-prep-notes/blob/main/day1/notes.md)
+* [Day 1]("https://github.com/p-brubaker/foundation-prep-notes/blob/main/day1/notes.md")
 <br>
-[Day 2](https://github.com/p-brubaker/foundation-prep-notes/blob/main/day2/notes.md)
+* [Day 2]("https://github.com/p-brubaker/foundation-prep-notes/blob/main/day2/notes.md")
 <br>
-[Day 3](https://github.com/p-brubaker/foundation-prep-notes/blob/main/day3/notes.md)
+* [Day 3]("https://github.com/p-brubaker/foundation-prep-notes/blob/main/day3/notes.md")
 <br>
-[Day 4](https://github.com/p-brubaker/foundation-prep-notes/blob/main/day4/notes.md)
+* [Day 4]("https://github.com/p-brubaker/foundation-prep-notes/blob/main/day4/notes.md")
 <br>
-[Day 5](https://github.com/p-brubaker/foundation-prep-notes/blob/main/day5/notes.md)
+* [Day 5]("https://github.com/p-brubaker/foundation-prep-notes/blob/main/day5/notes.md")
 <br>
 Lab 01B Notes Repository
 <br>
